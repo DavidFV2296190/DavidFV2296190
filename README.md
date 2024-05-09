@@ -1,4 +1,76 @@
-![](https://komarev.com/ghpvc/?username=DavidFV2296190)
-</br>
-[![DavidFV2296190](https://github-readme-stats-seven-bice-35.vercel.app/api?username=DavidFV2296190&show_icons=true&theme=dracula\&rank_icon=github)]()
-[![Top Langs](https://github-readme-stats-seven-bice-35.vercel.app/api/top-langs/?username=DavidFV2296190&layout=compact&show_icons=true&theme=dracula)]()
+## :toolbox: Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=openjdk)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
+![Codeblocks](https://img.shields.io/badge/-Codeblocks-333333?style=flat-square&logo=codeblocks)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-d283cd?style=flat-square&logo=redis)
+![Adminer](https://img.shields.io/badge/-Adminer-333333?style=flat-square&logo=adminer)
+![Postman](https://img.shields.io/badge/-Postman-73C6FF?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-Gitea-ffffff?style=flat-square&logo=gitea)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![Micropython](https://img.shields.io/badge/-Micropython-0078D6?style=flat-square&logo=micropython)
+![Coral](https://img.shields.io/badge/-Coral.ai-FF6F00?style=flat-square&logo=coral)
+![Linuxserver](https://img.shields.io/badge/-Linuxserver-333333?style=flat-square&logo=linuxserver)
+![QEMU](https://img.shields.io/badge/-QEMU-ffffff?style=flat-square&logo=qemu)
+![Linux](https://img.shields.io/badge/-Linux-001100?style=flat-square&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-115f00?style=flat-square&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat-square&logo=cloudflare)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat-square&logo=nginx)
+![pFsense](https://img.shields.io/badge/-pFsense-333333?style=flat-square&logo=pfsense)
+![OpenWRT](https://img.shields.io/badge/-OpenWRT-333333?style=flat-square&logo=openwrt)
+![Unifi](https://img.shields.io/badge/-Unifi-333333?style=flat-square&logo=ubiquiti)
+![Mikrotik](https://img.shields.io/badge/-Mikrotik-333333?style=flat-square&logo=mikrotik)
+![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat-square&logo=cisco)
+![Wireguard](https://img.shields.io/badge/-Wireguard-333333?style=flat-square&logo=wireguard)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-333333?style=flat-square&logo=openvpn)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+![ESP](https://img.shields.io/badge/-ESP-00979D?style=flat-square&logo=espressif)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-dddddd?style=flat-square&logo=home-assistant)
+![ESP-HOME](https://img.shields.io/badge/-ESPhome-00979D?style=flat-square&logo=esphome)
+![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat-square&logo=MQTT)
+![Tasmota](https://img.shields.io/badge/-Tasmota-333333?style=flat-square&logo=tasmota)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-aaaaaa?style=flat-square&logo=kali-linux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat-square&logo=burp-suite)
+
+<a href="https://github.com/DavidFV2296190/DavidFV2296190/blob/main">
+  <img height=200 align="center" src="https://github-readme-stats-seven-bice-35.vercel.app/api?username=DavidFV2296190&show_icons=true&theme=dracula&rank_icon=github" />
+</a>
+<a href="https://github.com/DavidFV2296190/DavidFV2296190/blob/main">
+  <img height=200 align="center" src="https://github-readme-stats-seven-bice-35.vercel.app/api/top-langs?username=anuraghazra&layout=compact&show_icons=true&theme=dracula&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/DavidFV2296190/DavidFV2296190/blob/main">
+  <img align="center" src="https://github-readme-activity-graph-tau.vercel.app/graph?username=DavidFV2296190&theme=dracula" />
+</a>
+
+
+![Visteurs](https://komarev.com/ghpvc/?username=DavidFV2296190&color=orange)
