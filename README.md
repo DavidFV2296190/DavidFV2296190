@@ -66,7 +66,7 @@
   <img height=200 align="center" src="https://github-readme-stats-seven-bice-35.vercel.app/api?username=DavidFV2296190&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
 <a href="https://github.com/DavidFV2296190/DavidFV2296190/blob/main">
-  <img height=200 align="center" src="https://github-readme-stats-seven-bice-35.vercel.app/api/top-langs?username=anuraghazra&layout=compact&show_icons=true&theme=dracula&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-seven-bice-35.vercel.app/api/top-langs?username=DavidFV2296190&layout=compact&show_icons=true&theme=dracula&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/DavidFV2296190/DavidFV2296190/blob/main">
   <img align="center" src="https://github-readme-activity-graph-tau.vercel.app/graph?username=DavidFV2296190&theme=dracula" />
